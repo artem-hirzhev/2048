@@ -14,7 +14,7 @@ The game was made with JavaScript.
 8) The `game over` message shows if there are no more available moves.
 9) The score increases with each move.
 
-Technologies were used:
+Technologies that were used:
  - JavaScript;
  - HTML;
  - CSS;
